@@ -38,7 +38,7 @@ GstRender.Dx12Enabled 0
 GstRender.Dx12KillSwitch 0
 GstRender.EffectsQuality 0
 GstRender.Enlighten 1
-GstRender.FieldOfViewScaleADS 1
+GstRender.FieldOfViewScaleADS 0
 GstRender.FieldOfViewVertical 105.000000
 GstRender.FieldOfViewVerticalVehicle 95.000000
 GstRender.FilmGrain 0
