@@ -23,7 +23,7 @@ GstInput.JoystickSensitivityVehicle 1.000000
 GstInput.LeaningEnabled 0
 GstInput.LeaningSensitivity 0.500000
 GstInput.MouseRawInput 1
-GstInput.MouseSensitivity 0.030000
+GstInput.MouseSensitivity 0.022500
 GstInput.MouseSensitivityVehicle 0.450000
 GstInput.PcPadLayout 0
 GstInput.Scheme0Buttons 0
@@ -933,7 +933,7 @@ GstKeyBinding.jet.ConceptZoom.3.device 0
 GstKeyBinding.jet.ConceptZoom.3.negate 0
 GstKeyBinding.jet.ConceptZoom.3.type 2
 GstKeyBinding.vehicle.ConceptBrake.0.axis 0
-GstKeyBinding.vehicle.ConceptBrake.0.button 31
+GstKeyBinding.vehicle.ConceptBrake.0.button 17
 GstKeyBinding.vehicle.ConceptBrake.0.device 0
 GstKeyBinding.vehicle.ConceptBrake.0.negate 0
 GstKeyBinding.vehicle.ConceptBrake.0.type 0
@@ -1038,7 +1038,7 @@ GstKeyBinding.vehicle.ConceptMapZoomAndSizeCombo.0.device 0
 GstKeyBinding.vehicle.ConceptMapZoomAndSizeCombo.0.negate 0
 GstKeyBinding.vehicle.ConceptMapZoomAndSizeCombo.0.type 0
 GstKeyBinding.vehicle.ConceptMoveFB.0.axis 0
-GstKeyBinding.vehicle.ConceptMoveFB.0.button 17
+GstKeyBinding.vehicle.ConceptMoveFB.0.button 31
 GstKeyBinding.vehicle.ConceptMoveFB.0.device 0
 GstKeyBinding.vehicle.ConceptMoveFB.0.negate 0
 GstKeyBinding.vehicle.ConceptMoveFB.0.type 0
@@ -1248,12 +1248,12 @@ GstKeyBinding.vehicle.ConceptToggleWeaponLight.1.device 0
 GstKeyBinding.vehicle.ConceptToggleWeaponLight.1.negate 0
 GstKeyBinding.vehicle.ConceptToggleWeaponLight.1.type 2
 GstKeyBinding.vehicle.ConceptYaw.0.axis 0
-GstKeyBinding.vehicle.ConceptYaw.0.button 30
+GstKeyBinding.vehicle.ConceptYaw.0.button 32
 GstKeyBinding.vehicle.ConceptYaw.0.device 0
 GstKeyBinding.vehicle.ConceptYaw.0.negate 1
 GstKeyBinding.vehicle.ConceptYaw.0.type 0
 GstKeyBinding.vehicle.ConceptYaw.1.axis 0
-GstKeyBinding.vehicle.ConceptYaw.1.button 32
+GstKeyBinding.vehicle.ConceptYaw.1.button 30
 GstKeyBinding.vehicle.ConceptYaw.1.device 0
 GstKeyBinding.vehicle.ConceptYaw.1.negate 0
 GstKeyBinding.vehicle.ConceptYaw.1.type 0
